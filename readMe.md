@@ -11,8 +11,8 @@ File to encrypt: test.jpg
 Password: 1234
 Done.
 ```
-"Replace test.jpg with your file with extension
-"Enter any password
+"Replace test.jpg with your file with extension"
+"Enter any password"
 
 
 
