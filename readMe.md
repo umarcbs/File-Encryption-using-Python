@@ -14,6 +14,9 @@ Done.
 Replace test.jpg with your file with extension
 Enter any password
 
+
+
+-Decrypt
 ```sh
 python fileEnc.py
 Would you like to (E)ncrypt or (D)ecrypt?: D
