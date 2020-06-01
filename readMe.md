@@ -1,5 +1,5 @@
 # File Encryptor 
-Encrypt any files using python
+Encrypt any file using python
 
 
 # How to 
@@ -27,6 +27,7 @@ Done.
 
 Replace (encrypted)test.jpg with your encrypted file with extension
 Enter the password that you set while encrypting your file to decrypt it
+
 
 ### Follow
 - www.github.com/umarcbs
