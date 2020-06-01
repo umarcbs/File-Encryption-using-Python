@@ -11,8 +11,8 @@ File to encrypt: test.jpg
 Password: 1234
 Done.
 ```
-"Replace test.jpg with your file with extension"
-"Enter any password"
+-Replace test.jpg with your file with extension
+-Enter any password
 
 
 
@@ -25,8 +25,8 @@ Password: 1234
 Done.
 ```
 
-"Replace (encrypted)test.jpg with your encrypted file with extension
-"Enter the password that you set while encrypting your file to decrypt it
+-Replace (encrypted)test.jpg with your encrypted file with extension
+-Enter the password that you set while encrypting your file to decrypt it
 
 
 ### Follow
